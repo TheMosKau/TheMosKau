@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TheMoss1
+- 👋 Hi, I’m @TheMosKau
+- 🌐 My YouTube channel is: TheMosKau (or TheMoss)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning some stupid stuff
-- 💞️ I’m looking to collaborate on mossware
-- 📫 How to reach me
+- 🌱 I’m currently learning how to fly in irl
 
 <!---
 TheMoss1/TheMoss1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
